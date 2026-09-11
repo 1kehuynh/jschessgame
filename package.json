@@ -1,5 +1,5 @@
 {
-  "name": "chessgame",
+  "name": "phaser-game",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "vite": "^8.2.2"
+  },
+  "dependencies": {
+    "phaser": "^4.2.1"
   }
 }
